@@ -1,0 +1,17 @@
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Console.exe.config
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Console.exe
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Console.pdb
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Entities.pdb
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\obj\Debug\CentralTelefonica.Console.csprojResolveAssemblyReference.cache
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\obj\Debug\CentralTelefonica.Console.exe
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Console\obj\Debug\CentralTelefonica.Console.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Console.exe.config
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\obj\Debug\CentralTelefonica.Console.exe
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\obj\Debug\CentralTelefonica.Console.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Console.exe
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Console.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\PC02\CentralTelefonica\CentralTelefonica.Console\obj\Debug\CentralTelefonica.Console.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Desktop\DA2-PARCIAL\PC02\PC02-master\CentralTelefonica\CentralTelefonica.Console\bin\Debug\CentralTelefonica.Console.exe.config

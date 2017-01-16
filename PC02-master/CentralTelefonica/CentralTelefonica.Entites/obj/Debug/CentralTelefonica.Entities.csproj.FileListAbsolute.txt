@@ -1,0 +1,4 @@
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entites\bin\Debug\CentralTelefonica.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entites\bin\Debug\CentralTelefonica.Entities.pdb
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entites\obj\Debug\CentralTelefonica.Entities.dll
+c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entites\obj\Debug\CentralTelefonica.Entities.pdb
