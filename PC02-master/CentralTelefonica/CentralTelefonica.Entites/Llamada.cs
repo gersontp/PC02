@@ -9,13 +9,17 @@ namespace CentralTelefonica.Entities
     public class Llamada
     {
         public int LlamadaId { get; set; }
+
         public int TelefonoId { get; set; }
         public  Telefono _Telefono;
+
         public int TimeId { get; set; }
         public Reloj _Reloj;
 
         public int CentralId { get; set; }
         public Central Central { get; set; }
+        public List<Incidencia> Incidencia { get; set; }
+        public List<RegistroHistoricoLlamada> RegistroHistoricoLlamada { get; set; }
         
 
         public Llamada(string numero)
@@ -28,6 +32,10 @@ namespace CentralTelefonica.Entities
             _Reloj = new Reloj();
         }
 
+        public Llamada()
+        {
+
+        }
         public Telefono Telefono { get { return _Telefono; } }
 
         public Reloj Reloj { get { return _Reloj; } }

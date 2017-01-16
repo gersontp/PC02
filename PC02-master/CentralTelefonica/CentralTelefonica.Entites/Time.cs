@@ -17,6 +17,7 @@ namespace CentralTelefonica.Entities
         public Time()
         {
             _HoraActual = DateTime.Now;
+            Reloj = new List<Reloj>();
         }
 
         public void GetTime(out int horas, out int minutos, out int segundos)

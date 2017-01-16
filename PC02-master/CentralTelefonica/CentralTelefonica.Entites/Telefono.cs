@@ -17,8 +17,22 @@ namespace CentralTelefonica.Entities
         public int CentralId { get; set; }
         public Central Central { get; set; }
 
+        public int TipoTelefonoId { get; set; }
+        public TipoTelefono TipoTelefono { get; set; }
+
+
+        public int AbonadoId { get; set; }
+        public Abonado Abonado { get; set; }
         string Numero {get;}
 
         double Tarifa(int hora);
+
+        public Telefono ()
+	{
+        Llamada = new List<Llamada>();
+        Celular = new List<Celular>();
+        Fijo = new List<Fijo>();
+	}
+
     }
 }

@@ -15,7 +15,7 @@ namespace CentralTelefonica.Context.EntitiesConfiguration
 	{
         //Configuro el nombre de la tabla en la base de datos
         ToTable("Llamada");
-        //Configuro la llave primaria de la tabla Authors
+        //Configuro la llave primaria de la tabla Llamada
         HasKey(Ll=> Ll.LlamadaId);
 
         HasRequired(t => t.Telefono)

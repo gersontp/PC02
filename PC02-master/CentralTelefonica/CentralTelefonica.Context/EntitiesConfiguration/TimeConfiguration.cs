@@ -15,7 +15,7 @@ namespace CentralTelefonica.Context.EntitiesConfiguration
         {
             //Configuro el nombre de la tabla en la base de datos
             ToTable("Time");
-            //Configuro la llave primaria de la tabla Authors
+            //Configuro la llave primaria de la tabla Time
             HasKey(Ti => Ti.TimeId);
 
             

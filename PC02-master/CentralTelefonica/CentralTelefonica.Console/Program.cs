@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace CentralTelefonica.Console
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

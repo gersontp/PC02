@@ -16,7 +16,7 @@ namespace CentralTelefonica.Context.EntitiesConfiguration
                 //Configuro el nombre de la tabla en la base de datos
                 ToTable("Telefono");
 
-                //Configuro la llave primaria de la tabla Authors
+                //Configuro la llave primaria de la tabla Telefono
                 HasKey(t => t.TelefonoId);
 
                 //Configuro la longitud maxima del campo Numero
@@ -24,9 +24,15 @@ namespace CentralTelefonica.Context.EntitiesConfiguration
 
                 HasRequired(a => a.Central)
                     .WithMany(b => b._Telefonos)
-                    .HasForeignKey(R => R.CentralId);
+                    .HasForeignKey(b => b.CentralId);
 
+                HasRequired(t => t.Abonado)
+                 .WithMany(b => b.Telefono)
+                 .HasForeignKey(t => t.AbonadoId);
 
+                HasRequired(t => t.TipoTelefono)
+                .WithMany(b => b.Telefono)
+                .HasForeignKey(t => t.TipoTelefonoId);
 
 	        }
      

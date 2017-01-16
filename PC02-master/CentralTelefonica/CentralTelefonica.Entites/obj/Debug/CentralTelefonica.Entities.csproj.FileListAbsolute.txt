@@ -2,3 +2,4 @@ c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTe
 c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entites\bin\Debug\CentralTelefonica.Entities.pdb
 c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entites\obj\Debug\CentralTelefonica.Entities.dll
 c:\users\clase\documents\visual studio 2013\Projects\CentralTelefonica\CentralTelefonica.Entites\obj\Debug\CentralTelefonica.Entities.pdb
+C:\Users\gabriel\Desktop\DA2-PARCIAL\PC02\PC02-master\CentralTelefonica\CentralTelefonica.Entites\obj\Debug\CentralTelefonica.Entities.csprojResolveAssemblyReference.cache

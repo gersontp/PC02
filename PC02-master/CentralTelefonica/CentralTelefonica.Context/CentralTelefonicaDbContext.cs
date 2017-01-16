@@ -19,6 +19,14 @@ namespace CentralTelefonica.Context
         public DbSet<Reloj> Reloj { get; set; }
         public DbSet<Telefono> Telefono { get; set; }
         public DbSet<Time> Time { get; set; }
+        public DbSet<Abonado> Abonado { get; set; }
+        public DbSet<Incidencia> Incidencia { get; set; }
+        public DbSet<TipoIncidencia> TipoIncidencia { get; set; }
+        public DbSet<TipoTelefono> TipoTelefono { get; set; }
+        public DbSet<RegistroHistoricoLlamada> RegistroHistoricoLlamada { get; set; }
+        public DbSet<RegistrodeIncidenciaLlamada> RegistrodeIncidenciaLlamada { get; set; }
+
+
 
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder) {
@@ -36,6 +44,18 @@ namespace CentralTelefonica.Context
             modelBuilder.Configurations.Add(new CentralConfiguration());
 
             modelBuilder.Configurations.Add(new CelularConfiguration());
+
+            modelBuilder.Configurations.Add(new AbonadoConfiguration());
+
+            modelBuilder.Configurations.Add(new IncidenciaConfiguration());
+
+            modelBuilder.Configurations.Add(new TipoIncidenciaConfiguration());
+
+            modelBuilder.Configurations.Add(new TipoTelefonoConfiguration());
+
+            modelBuilder.Configurations.Add(new RegistroHistoricoLlamadaConfiguration());
+
+            modelBuilder.Configurations.Add(new RegistrodeIncidenciaLlamadaConfiguration());
 
             base.OnModelCreating(modelBuilder);
 

@@ -16,7 +16,7 @@ namespace CentralTelefonica.Context.EntitiesConfiguration
             //Configuro el nombre de la tabla en la base de datos
             ToTable("Fijo");
 
-            //Configuro la llave primaria de la tabla Authors
+            //Configuro la llave primaria de la tabla Fijo
             HasKey(f => f.TelefonoId);
             //Configuro la longitud maxima del campo Numero
             Property(f => f.Numero).HasMaxLength(7);

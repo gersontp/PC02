@@ -49,13 +49,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CentralTelefonicaDbContext.cs" />
+    <Compile Include="EntitiesConfiguration\AbonadoConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\CelularConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\CentralConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\FijoConfiguration.cs" />
+    <Compile Include="EntitiesConfiguration\IncidenciaConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\LlamadaConfiguration.cs" />
+    <Compile Include="EntitiesConfiguration\RegistrodeIncidenciaLlamadaConfiguration.cs" />
+    <Compile Include="EntitiesConfiguration\RegistroHistoricoLlamadaConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\RelojConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\TelefonoConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\TimeConfiguration.cs" />
+    <Compile Include="EntitiesConfiguration\TipoIncidenciaConfiguration.cs" />
+    <Compile Include="EntitiesConfiguration\TipoTelefonoConfiguration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
